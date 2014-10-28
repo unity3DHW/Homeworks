@@ -1,0 +1,11 @@
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\UnityEditor.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\UnityEngine.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\Mono.Cecil.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\nunit.framework.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\Unity.DataContract.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Software University\Unity 3D\homeworks\01.Homework\obj\Debug\Assembly-CSharp.dll
+D:\Software University\Unity 3D\homeworks\01.Homework\obj\Debug\Assembly-CSharp.pdb
